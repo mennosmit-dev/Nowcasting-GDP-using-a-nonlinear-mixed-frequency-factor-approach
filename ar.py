@@ -1,4 +1,3 @@
-
 '''This module contains the main program for nowcasting GDP using AR(1).'''
 
 
